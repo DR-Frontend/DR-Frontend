@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @DR-Frontend
-- 👀 I’m interested in {coding Mockups to HTML & CSS}
-- 🌱 I’m currently learning {React}
-- 💞️ I’m looking to collaborate on {landing-pages and one-page builds}
-- 📫 You can see my work in: {https://dr-frontend.github.io/portfolio/}
-- 😃 #KeepitSimple
-
-<!---
-DR-Frontend/DR-Frontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+const 😃 DavidRomero = {
+  🔍 portafolio: https://dr-frontend.github.io/portfolio
+  🖥 puesto: Diseñador FrontEnd, 
+  💻 tecnologías: "HTML, CSS, JS",
+  ⚙️ frameworks: "Bootstrap, SASS, GSAP",
+  🔧 herramientas: "Terminal, Git, Github, FilleZilla",
+  🪛 cms: "WordPress, WooCommerce",
+  🖲 diseño: "Figma, Ai, Ps",
+  ⌨️ editores: "VisualStudioCode, SublimeText",
+  🧠 metodologías: "SCRUM, BEM, MobileFirst",
+  🖱 sistemas_operativos: "Mac, Windows",
+  💬 idiomas: "Inglés básico/técnico",
+  😍 áreas_de_interés: "Diseño Frontend/UI/Multimedia",
+  🧩 aprendiendo: "React",
+  😉 #KeepItSimple
+}
