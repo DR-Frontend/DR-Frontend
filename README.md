@@ -1,16 +1,17 @@
-const 😃 DavidRomero = {
-  🔍 portafolio: https://dr-frontend.github.io/portfolio
-  🖥 puesto: Diseñador FrontEnd, 
-  💻 tecnologías: "HTML, CSS, JS",
-  ⚙️ frameworks: "Bootstrap, SASS, GSAP",
-  🔧 herramientas: "Terminal, Git, Github, FilleZilla",
-  🪛 cms: "WordPress, WooCommerce",
-  🖲 diseño: "Figma, Ai, Ps",
-  ⌨️ editores: "VisualStudioCode, SublimeText",
-  🧠 metodologías: "SCRUM, BEM, MobileFirst",
-  🖱 sistemas_operativos: "Mac, Windows",
-  💬 idiomas: "Inglés básico/técnico",
-  😍 áreas_de_interés: "Diseño Frontend/UI/Multimedia",
-  🧩 aprendiendo: "React",
-  😉 #KeepItSimple
-}
+const 😃 David_Romero = {
+  - 🔍 **portafolio:** _https://dr-frontend.github.io/portfolio_ ,
+	- 🖥 **puesto:** _"Diseñador FrontEnd"_,
+  - 💻 **tecnologías:** _"HTML, CSS, JS"_,
+  - ⚙️ **frameworks:** _"Bootstrap, SASS, GSAP"_,
+  - 🔧 **herramientas:** _"Terminal, Git, Github, FilleZilla"_,
+  - 🪛 **cms:** _"WordPress, WooCommerce"_,
+  - 🖲 **diseño:** _"Figma, Ai, Ps"_,
+  - ⌨️ **editores:** _"VisualStudioCode, SublimeText"_,
+  - 🧠 **metodologías:** _"SCRUM, BEM, MobileFirst"_,
+  - 🖱 **sistemas_operativos:** _"Mac, Windows"_,
+  - 💬 **idiomas:** _"Inglés básico/técnico"_,
+  - 😍 **áreas_de_interés:** _"Diseño Frontend/UI/Multimedia"_,
+  - 🧩 **aprendiendo:** _"React"_,
+  - 😉 ***#KeepItSimple**
+  
+};
