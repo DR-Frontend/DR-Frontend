@@ -12,6 +12,6 @@ perfil David_Romero = {
   - 💬 **idiomas:** _"Inglés básico/técnico"_,
   - 😍 **áreas_de_interés:** _"Diseño Frontend/UI/Multimedia"_,
   - 🧩 **aprendiendo:** _"React"_,
-  - 😉 ***#KeepItSimple**
+  - 😉 **#KeepItSimple**
   
 };
