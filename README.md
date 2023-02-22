@@ -1,6 +1,6 @@
 const 😃 David_Romero = {
   - 🔍 **portafolio:** _https://dr-frontend.github.io/portfolio_ ,
-	- 🖥 **puesto:** _"Diseñador FrontEnd"_,
+  - 🖥 **puesto:** _"Diseñador FrontEnd"_,
   - 💻 **tecnologías:** _"HTML, CSS, JS"_,
   - ⚙️ **frameworks:** _"Bootstrap, SASS, GSAP"_,
   - 🔧 **herramientas:** _"Terminal, Git, Github, FilleZilla"_,
