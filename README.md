@@ -1,4 +1,4 @@
-const 😃 David_Romero = {
+perfil David_Romero = {
   - 🔍 **portafolio:** _https://dr-frontend.github.io/portfolio_ ,
   - 🖥 **puesto:** _"Diseñador FrontEnd"_,
   - 💻 **tecnologías:** _"HTML, CSS, JS"_,
