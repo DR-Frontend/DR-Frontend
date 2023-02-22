@@ -15,4 +15,5 @@ perfil David_Romero = {
   - 😉 **frese_celebre:** _"#MantenloSencillo"_,
   - 🫶🏾 **hobbies:** _"Guitarra, Fútbol, Cine & Videojuegos"_,
   - 🤤 **gustos:** _"Tacos, Papas fritas & Pizza"_,
+
 };
