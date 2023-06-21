@@ -11,9 +11,9 @@ perfil David_Romero = {
   - 🖱 **sistemas_operativos:** _"Mac, Windows"_,
   - 💬 **idiomas:** _"Inglés básico/técnico"_,
   - 😍 **áreas_de_interés:** _"Diseño Frontend/UI/Multimedia"_,
-  - 🧩 **aprendiendo:** _"Svelte"_,
+  - 🧩 **aprendiendo:** _"React"_,
   - 😉 **frese_celebre:** _"#MantenloSencillo"_,
-  - 🫶🏾 **hobbies:** _"Guitarra, Fútbol, Cine & Videojuegos"_,
+  - 🫶🏾 **hobbies:** _"Fútbol, Cine, Videojuegos y tocar la Guitarra"_,
   - 🤤 **gustos:** _"Tacos, Papas fritas & Pizza"_,
 
 };
