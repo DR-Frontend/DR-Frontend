@@ -1,12 +1,12 @@
 - 🔍 **portafolio:** _https://dr-frontend.github.io/portfolio_
 - 🤩 **áreas_de_interés:** _"Frontend / UI / Multimedia"_
 - 🖥 **puesto:** _"Diseñador FrontEnd"_
-- 💻 **tecnologías:** _"REACT, SASS, GSAP, Flex & Grid layout"_
+- 💻 **tecnologías:** _"HTML, CSS, GSAP, Flex & Grid layout"_
 - ⚙️ **herramientas:** _"Terminal, Git, Github, FilleZilla"_
 - 📐 **cms:** _"WordPress, WooCommerce"_
 - 🖲 **diseño:** _"Figma, Ai, Ps"_
 - ⌨️ **editores:** _"VisualStudioCode, SublimeText"_
 - 🖱 **sistemas_operativos:** _"Mac, Windows"_
-- 🧩 **aprendiendo:** _"React"_
+- 🧩 **aprendiendo:** _"Angular 17"_
 - 🧠 **metodologías:** _"SCRUM, BEM, MobileFirst"_
 - 💬 **idiomas:** _"Inglés básico/técnico"_
