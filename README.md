@@ -1,9 +1,9 @@
-- 🔍 **portafolio:** _https://dr-frontend.github.io/portfolio_
-- 🤩 **áreas_de_interés:** _"UXUI / Maquetación Frontend / Multimedia"_
-- 🖲 **diseño:** _"Figma, Ai, Ps"_
-- 🎨 **multimedia:** _"Premiere, Blender"_
-- 💻 **frameworks:** _"Angular, Tailwind, GSAP"_
-- ⚙️ **herramientas:** _"VSCode, Terminal, Git"_
-- 🖱 **sistemas_operativos:** _"Mac, Windows"_
-- 🧠 **metodologías:** _"BEM, MobileFirst, SCRUM"_
-- 💬 **idiomas:** _"Inglés básico/técnico"_
+- 🔍 **Portafolio:** _https://dr-frontend.github.io/portfolio_
+- 🤩 **Áreas_de_interés:** _"UXUI / Maquetación Frontend / Multimedia"_
+- 🖲 **Diseño:** _"Figma, Ai, Ps"_
+- 🎨 **Multimedia:** _"Premiere, Blender"_
+- 💻 **Frameworks:** _"Angular, Tailwind, GSAP"_
+- ⚙️ **Herramientas:** _"VSCode, Terminal, Git"_
+- 🖱 **Sistemas_operativos:** _"Mac, Windows"_
+- 🧠 **Metodologías:** _"BEM, MobileFirst, SCRUM"_
+- 💬 **Idiomas:** _"Inglés básico/técnico"_
